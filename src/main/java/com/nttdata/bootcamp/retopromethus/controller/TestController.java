@@ -1,4 +1,4 @@
-package com.nttdata.bootcamp.retopromethus.prometheus;
+package com.nttdata.bootcamp.retopromethus.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
